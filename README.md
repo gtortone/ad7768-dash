@@ -5,3 +5,4 @@ Analog AD7768-4 web dashboard
 ```
 pyenv activate 3.6.9/envs/libiio-venv
 ```
+![sshot1](/sshots/dash-screen1.png)
