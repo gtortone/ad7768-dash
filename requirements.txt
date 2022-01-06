@@ -1,5 +1,5 @@
 dash_html_components==1.0.2
-celery==4.4.1
+celery==5.2.2
 dash_core_components==1.8.1
 numpy==1.18.1
 libiio==0.0.0
