@@ -1,7 +1,7 @@
 dash_html_components==1.0.2
 celery==4.4.1
 dash_core_components==1.8.1
-numpy==1.18.1
+numpy==1.22.0
 libiio==0.0.0
 dash_daq==0.3.3
 iio==0.0.3
